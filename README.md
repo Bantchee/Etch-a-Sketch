@@ -16,7 +16,7 @@ A webpage sketch pad that allows you to create pixel art.
 ### Built With
 
 # Contributers
-Jar'Zeno Jarrett (Bantchee)
+Jar'Zeno Jarrett (@Bantchee)
 
 # Acknowledgements
 The Odin Project
