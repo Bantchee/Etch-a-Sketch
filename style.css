@@ -1,6 +1,5 @@
 html, body {
     /* Default margin and padding onf 8px */
-
     margin: 0;
     padding: 0;
 }
@@ -16,7 +15,6 @@ body {
 }
 /* HEADER */
 header {
-    /* border: solid yellow; */
     width: 100%;
     display: flex;
     justify-content: center;
@@ -55,11 +53,6 @@ button:hover {
     color: #F0F1EC;
 }
 
-.button-selected {
-    background-color: #6a6863;
-    color: #F0F1EC;
-}
-
 .canvas {
     height: 500px;
     width: 500px;
@@ -78,9 +71,6 @@ button:hover {
 .pixel {
     background-color: white;
     flex: 1;
-    /* margin: 4px;
-    width: 16px;
-    height: 16px; */
 }
 
 /* FOOTER */

@@ -131,12 +131,3 @@ changeGridSizeBtn.addEventListener('click', () => {
     let gridSize = prompt("Enter a number between 1 and 64");
     (gridSize > 0) && (gridSize <= 65) ? updateCanvas(gridSize) : alert("Number too big or too small.")
 });
-
-// adds button-selected class to clicked button
-// removes button-selected class from other button
-/* tns.forEach(button => {
-    button.addEventListener('click', () => {
-        btns.
-        button.classList.add(button-selected))
-}) */
-
