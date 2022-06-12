@@ -9,14 +9,17 @@ A webpage sketch pad that allows you to create pixel art.
 * Painting Modes
     * Single Color
     * Ranbow
+    * Random Color
     * Eraser
 * Clear Canvas
-* Adjust Brush size
 
 ### Built With
+* HTML
+* CSS
+* JavaScript
 
 # Contributers
-Jar'Zeno Jarrett (@Bantchee)
+[Jar'Zeno Jarrett (Bantchee)](<https://github.com/Bantchee>)
 
 # Acknowledgements
 The Odin Project
