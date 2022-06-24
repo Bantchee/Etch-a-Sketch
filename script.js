@@ -96,13 +96,13 @@ const changeGridSizeBtn = document.querySelector('.change-grid-size');
 
 let brushColor = "black";
 
-// Turns brush color to black
+// Sets brush color to black
 paintBtn.addEventListener('click', () => {
     rainbow=false;
     brushColor="black";
 });
 
-// Add random color to pixel
+// Sets brush color to random color
 randomColorBtn.addEventListener('click', () => {
     rainbow=false;
     brushColor=randomHexColor();
@@ -111,7 +111,7 @@ randomColorBtn.addEventListener('click', () => {
 // Add random color to pixel
 rainbowBtn.addEventListener('click', () => rainbow=true);
 
-// Turns brush color to white
+// Sets brush color to white color
 eraseBtn.addEventListener('click', () => {
     rainbow=false;
     brushColor="white"

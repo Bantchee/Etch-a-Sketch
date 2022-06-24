@@ -22,4 +22,4 @@ A webpage sketch pad that allows you to create pixel art.
 [Jar'Zeno Jarrett (Bantchee)](<https://github.com/Bantchee>)
 
 # Acknowledgements
-The Odin Project
+[The Odin Project](<https://www.theodinproject.com/>)
